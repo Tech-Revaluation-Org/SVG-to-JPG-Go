@@ -1,10 +1,4 @@
-It looks like you've provided a link to a GitHub repository titled "SVG to JPG Go." If you're looking for specific information or assistance regarding this repository, such as how to use it, how to contribute, or details about its functionality, please let me know! 
-
-In the meantime, here’s a general outline of what you might find in a repository like this, along with some common sections that could be included in the documentation:
-
----
-
-# SVG to JPG Converter in Go
+#SVG to JPG Converter in Go
 
 ## Overview
 The SVG to JPG Converter is a Go-based tool that allows users to convert SVG (Scalable Vector Graphics) files into JPG (JPEG Image) format. This tool is useful for web developers, graphic designers, and anyone who needs to work with vector graphics in a raster format.
